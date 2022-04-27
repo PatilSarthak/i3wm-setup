@@ -189,7 +189,7 @@ exec_always feh ~/Pictures/wallpaper.jpg --bg-scale
 
 #Custum_key_binding
 
-bindsym $mod+T exec sh -c /home/none/Downloads/tor-browser_en-US/Browser/start-tor-browser
+bindsym $mod+T exec sh -c ~/Downloads/tor-browser_en-US/Browser/start-tor-browser
 
 bindsym $mod+Shift+F exec firefox
 
