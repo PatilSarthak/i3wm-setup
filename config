@@ -187,8 +187,6 @@ bar {
 
 exec_always feh ~/Pictures/wallpaper.jpg --bg-scale
 
-exec_always sudo mount /dev/sdb1 /media/none/HDD
-
 #Custum_key_binding
 
 bindsym $mod+T exec sh -c /home/none/Downloads/tor-browser_en-US/Browser/start-tor-browser
