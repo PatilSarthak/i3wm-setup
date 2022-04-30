@@ -222,7 +222,7 @@ bindsym Ctrl+Shift+B exec xbacklight -set 1%
 bindsym Ctrl+shift+F exec thunar
 
 #gaps 
- gaps outer 5
+gaps outer 5
 gaps inner 5
 smart_borders on
 
